@@ -3,5 +3,6 @@
   "version": "1.0.0",
   "displayName": "WaterKat UI Assistants",
   "description": "This package allows you to create assistants to create good UI",
-  "unity": "2021.1"
+  "unity": "2021.1",
+  "type": "library"
 }
