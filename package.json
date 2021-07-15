@@ -4,7 +4,9 @@
   "displayName": "WaterKat UI Assistants",
   "description": "This package allows you to create assistants to create good UI",
   "unity": "2021.1",
-  "type": "library",
+  "type": "library",  
+  "enableLockFile": true,
+  "resolutionStrategy": "highest",
   "author": 
   {
     "name": "Jacob Vallecillo",
