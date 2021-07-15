@@ -5,4 +5,10 @@
   "description": "This package allows you to create assistants to create good UI",
   "unity": "2021.1",
   "type": "library"
+  "author": 
+  {
+    "name": "Jacob Vallecillo",
+    "email": "waterkatgames@gmail.com",
+    "url": "waterkatgames.com"
+  }
 }
